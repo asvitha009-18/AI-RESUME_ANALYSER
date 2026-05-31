@@ -1,0 +1,5 @@
+fastapi==0.111.1
+uvicorn
+python-multipart
+PyPDF2==3.0.1
+python-docx
